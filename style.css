@@ -1,0 +1,75 @@
+body {
+    background-image: url("/img/index/background_3.jpg");
+    background-size: cover;
+   }
+
+.largest_title{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Brush Script MT', serif;
+    color:#0047AB;
+    font-weight: bold;
+    position: static;
+}
+
+.largest_title_container{
+    margin: auto;
+    width: 1000px;
+}
+
+.background_page{
+    margin: auto;
+    width: 1000px;
+    border: 2px solid gray;
+    padding: 10px;
+    background-color: lightskyblue;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 25px;
+}
+
+.top_bar_edge{
+    text-align: center;
+    width: 100%;
+    border: 0px solid;
+    border-collapse: collapse;
+    border-bottom:1px solid;
+}
+
+.introduction_edge{
+    text-align: center;
+    width: 450px;
+    border: 0px solid;
+    border-collapse: collapse;
+}
+.introduction_edge img{
+    width: 300px;
+}
+
+.content_in_top_bar{
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    color:#0047AB;
+    font-weight: bold;
+}
+
+.introduction_text{
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    color:#000080;
+    font-weight: bold;
+}
+
+.experience_selection_text{
+    text-align: left;
+    font-size: 32px;
+    font-family: 'Times New Roman';
+    color:#000080;
+    font-weight: bold;
+}
+
+.experience_selection_edge{
+    text-align: center;
+    width: 500px;
+    border: 0px solid;
+}
