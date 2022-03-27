@@ -41,6 +41,7 @@ body {
     border: 0px solid;
     border-collapse: collapse;
 }
+
 .introduction_edge img{
     width: 300px;
 }
@@ -54,7 +55,7 @@ body {
 
 .introduction_text{
     text-align: left;
-    font-size: 18px;
+    font-size: 24px;
     font-family: 'Times New Roman';
     color:#000080;
     font-weight: bold;
