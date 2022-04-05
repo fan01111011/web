@@ -14,7 +14,7 @@ body {
 
 .largest_title_container{
     margin: auto;
-    width: 1000px;
+    width: 1200px;
 }
 
 .background_page{
@@ -71,6 +71,25 @@ body {
 
 .experience_selection_edge{
     text-align: center;
-    width: 500px;
+    width: 450px;
     border: 0px solid;
+}
+
+.course_back_ground{
+    margin: auto;
+    width: 900px;
+    border: 2px solid gray;
+    padding: 10px;
+    background-color: rgb(216, 218, 97);
+    border-radius: 25px;
+    margin-bottom: 5px; /* or whatever */
+    margin-top: 5px;
+}
+.class_title_bold{
+    font-weight: bold;
+}
+.edu_work_table{
+    margin:auto;
+    margin-left: 60px;
+    
 }
