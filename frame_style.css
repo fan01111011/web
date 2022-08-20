@@ -3,7 +3,17 @@ body {
     background-size: cover;
    }
 
-.largest_title{
+.background_page{
+    margin: auto;
+    width: 1000px;
+    border: 2px solid gray;
+    padding: 10px;
+    background-color: lightskyblue;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 25px;
+}
+
+.largest_title_content{
     text-align: center;
     font-size: 80px;
     font-family: 'Brush Script MT', serif;
@@ -17,15 +27,7 @@ body {
     width: 1200px;
 }
 
-.background_page{
-    margin: auto;
-    width: 1000px;
-    border: 2px solid gray;
-    padding: 10px;
-    background-color: lightskyblue;
-    box-shadow: 10px 10px 10px gray;
-    border-radius: 25px;
-}
+
 
 .top_bar_edge{
     text-align: center;
@@ -35,6 +37,13 @@ body {
     border-bottom:1px solid;
 }
 
+.content_in_top_bar{
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    color:#0047AB;
+    font-weight: bold;
+}
+
 .introduction_edge{
     text-align: center;
     width: 450px;
@@ -42,15 +51,10 @@ body {
     border-collapse: collapse;
 }
 
+
+
 .introduction_edge img{
     width: 300px;
-}
-
-.content_in_top_bar{
-    font-size: 28px;
-    font-family: 'Times New Roman';
-    color:#0047AB;
-    font-weight: bold;
 }
 
 .introduction_text{
