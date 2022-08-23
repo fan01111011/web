@@ -28,13 +28,12 @@ body {
 }
 
 
-
 .top_bar_edge{
     text-align: center;
     width: 100%;
-    border: 0px solid;
-    border-collapse: collapse;
-    border-bottom:1px solid;
+    border: px solid;
+    border-collapse: s;
+    border-bottom:2px solid;
 }
 
 .content_in_top_bar{
