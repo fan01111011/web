@@ -8,7 +8,7 @@ body {
     width: 1000px;
     border: 2px solid gray;
     padding: 10px;
-    background-color: lightskyblue;
+    background: linear-gradient(#FFCD00,#FFCD00, #FFCD00, #00629B);
     box-shadow: 10px 10px 10px gray;
     border-radius: 25px;
 }
