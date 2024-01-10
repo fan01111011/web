@@ -78,15 +78,14 @@ body {
     border: 0px solid;
 }
 
-.course_back_ground{
+.project_back_ground{
     margin: auto;
     width: 900px;
-    border: 2px solid gray;
+    border: 1px solid brown;
     padding: 10px;
     background-color: rgb(216, 218, 97);
     border-radius: 25px;
-    margin-bottom: 5px; /* or whatever */
-    margin-top: 5px;
+
 }
 .class_title_bold{
     font-weight: bold;
@@ -98,7 +97,15 @@ body {
     
 }
 
-.research_pic img{
+.poster_pic img{
     text-align: center;
     width: 100%;
+}
+
+.project_title_bold{
+    font-weight: bold;
+}
+
+.keyword_italic{
+    font-weight: italic;
 }
